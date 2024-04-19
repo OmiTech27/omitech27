@@ -3,7 +3,7 @@
 <h4>A Full-Stack developer | Machine Learning </h4>
 
 - 🔭 I’m currently working on a Machine Learning Project
-- 🌱 I’m Interested to work on Web 3.0
+- 🌱 I’m Interested to work on AI & ML
 - 👯 I’m making the world better by PRs
 - 💬 Ask me about Technology &
 - 📫 How to reach me: okhandare95@gmail.com
